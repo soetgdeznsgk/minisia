@@ -60,10 +60,10 @@ class Main{
     Carreras.add(Sociol);
   //
 
-    // Estudiantes 0: Emiliano, 1: Fiorentino, 2: Manuel, 3: FONSI, 4: Arturo, 5: Juni
+    // Estudiantes 0: Emiliano, 1: Ruperto, 2: Manuel, 3: FONSI, 4: Arturo, 5: Juni
     Estudiantes.add(new Estudiante("Emiliano Guerra", "eguerra"));
     Estudiantes.get(0).setCarrera(Carreras.get(0));
-    Estudiantes.add(new Estudiante("Fiorentino Bonachon", "fbonachon"));
+    Estudiantes.add(new Estudiante("Ruperto Bonachon", "rbonachon"));
     Estudiantes.get(1).setCarrera(Carreras.get(1));
     Estudiantes.add(new Estudiante("Manuel Quintana", "mquintana"));
     Estudiantes.get(2).setCarrera(Carreras.get(0));
